@@ -1,0 +1,1 @@
+# coc-7ed-mini-game
