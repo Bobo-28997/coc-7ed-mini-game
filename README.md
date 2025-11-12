@@ -1,1 +1,2 @@
 # coc-7ed-mini-game
+使用tkinter模块化两个frame的骰子模拟器。。。可以用类似的方法把你开发的小工具整合成一个模块化用pyinstaller打包成exe送给啥都不懂的朋友
